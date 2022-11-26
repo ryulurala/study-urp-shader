@@ -1,1 +1,1 @@
-# study-shader-unity
+# study-urp-shader
